@@ -1,2 +1,6 @@
 PBX DATA LOGGER
-This fork was create to make a PBX data logger. It use SharpTel repository as base TCP client . It means that it will initiate connection with the PBX and the PBX will work as a server. Add one IP addresses  (or several on future release)  of the Panasonic PBX. The port number should match the port that you have defined within the PBX (2300 in the example below).
+This fork was create to make a PBX data logger.
+It use SharpTel repository as base TCP client .
+It means that it will initiate connection with the PBX and the PBX will work as a server.
+Add one IP addresses  (or several on future release)  of the Panasonic PBX.
+The port number should match the port that you have defined within the PBX (2300 in the example below).
