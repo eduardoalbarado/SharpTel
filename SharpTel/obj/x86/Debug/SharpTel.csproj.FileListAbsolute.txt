@@ -3,3 +3,9 @@ c:\users\arvind .k\documents\visual studio 2010\Projects\SharpTel\SharpTel\bin\D
 c:\users\arvind .k\documents\visual studio 2010\Projects\SharpTel\SharpTel\obj\x86\Debug\ResolveAssemblyReference.cache
 c:\users\arvind .k\documents\visual studio 2010\Projects\SharpTel\SharpTel\obj\x86\Debug\SharpTel.exe
 c:\users\arvind .k\documents\visual studio 2010\Projects\SharpTel\SharpTel\obj\x86\Debug\SharpTel.pdb
+C:\Users\Eduardo\Source\Repos\EnKrypt\SharpTel\SharpTel\bin\Debug\SharpTel.exe
+C:\Users\Eduardo\Source\Repos\EnKrypt\SharpTel\SharpTel\bin\Debug\SharpTel.pdb
+C:\Users\Eduardo\Source\Repos\EnKrypt\SharpTel\SharpTel\obj\x86\Debug\SharpTel.csprojAssemblyReference.cache
+C:\Users\Eduardo\Source\Repos\EnKrypt\SharpTel\SharpTel\obj\x86\Debug\SharpTel.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo\Source\Repos\EnKrypt\SharpTel\SharpTel\obj\x86\Debug\SharpTel.exe
+C:\Users\Eduardo\Source\Repos\EnKrypt\SharpTel\SharpTel\obj\x86\Debug\SharpTel.pdb
